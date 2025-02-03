@@ -22,7 +22,7 @@ class calculator {
             rchild = 0;
         }
         public treeNode() {
-            value = "fuck";
+            value = "";
             lchild = 0;
             rchild = 0;
         }
